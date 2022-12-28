@@ -13,19 +13,15 @@ const data = [
 		trips: [
 			{
 				date: randomDate(),
-				origin: "france",
-				destination: "germany",
+				origin: "mashhad",
+				destination: "kerman",
 			},
 			{
 				date: randomDate(),
-				origin: "france",
-				destination: "germany",
+				origin: "tehran",
+				destination: "abadan",
 			},
-			{
-				date: randomDate(),
-				origin: "france",
-				destination: "germany",
-			},
+
 		],
 	},
 	{
@@ -34,24 +30,20 @@ const data = [
 		trips: [
 			{
 				date: randomDate(),
-				origin: "france",
-				destination: "germany",
+				origin: "zahedan",
+				destination: "kordestan",
 			},
 			{
 				date: randomDate(),
-				origin: "france",
-				destination: "germany",
+				origin: "iran",
+				destination: "france",
 			},
 			{
 				date: randomDate(),
-				origin: "france",
-				destination: "germany",
+				origin: "esfahan",
+				destination: "yazd",
 			},
-			{
-				date: randomDate(),
-				origin: "france",
-				destination: "germany",
-			},
+
 		],
 	},
 	{
@@ -60,38 +52,20 @@ const data = [
 		trips: [
 			{
 				date: randomDate(),
-				origin: "france",
-				destination: "germany",
+				origin: "yazd",
+				destination: "shahrood",
 			},
 			{
 				date: randomDate(),
-				origin: "france",
-				destination: "germany",
+				origin: "semnan",
+				destination: "karaj",
 			},
 			{
 				date: randomDate(),
-				origin: "france",
+				origin: "iran",
 				destination: "germany",
 			},
-			{
-				date: randomDate(),
-				origin: "france",
-				destination: "germany",
-			},
-			{
-				date: randomDate(),
-				origin: "france",
-				destination: "germany",
-			},
-			{
-				date: randomDate(),
-				origin: "france",
-				destination: "germany",
-			},{
-				date: randomDate(),
-				origin: "france",
-				destination: "germany",
-			},
+
 		],
 	},
 	{
@@ -100,18 +74,18 @@ const data = [
 		trips: [
 			{
 				date: randomDate(),
-				origin: "france",
-				destination: "germany",
+				origin: "iran",
+				destination: "iraq",
 			},
 			{
 				date: randomDate(),
-				origin: "france",
-				destination: "germany",
+				origin: "tehran",
+				destination: "yazd",
 			},
 			{
 				date: randomDate(),
-				origin: "france",
-				destination: "germany",
+				origin: "kerman",
+				destination: "ilam",
 			},
 		],
 	},
@@ -121,29 +95,20 @@ const data = [
 		trips: [
 			{
 				date: randomDate(),
-				origin: "france",
+				origin: "iran",
 				destination: "germany",
 			},
 			{
 				date: randomDate(),
 				origin: "france",
-				destination: "germany",
+				destination: "iraq",
 			},
 			{
 				date: randomDate(),
-				origin: "france",
-				destination: "germany",
+				origin: "qom",
+				destination: "yasooj",
 			},
-			{
-				date: randomDate(),
-				origin: "france",
-				destination: "germany",
-			},
-			{
-				date: randomDate(),
-				origin: "france",
-				destination: "germany",
-			},
+
 		],
 	},
 	{
@@ -162,39 +127,11 @@ const data = [
 			},
 			{
 				date: randomDate(),
-				origin: "france",
+				origin: "iraq",
 				destination: "germany",
 			},
-			{
-				date: randomDate(),
-				origin: "france",
-				destination: "germany",
-			},
-			{
-				date: randomDate(),
-				origin: "france",
-				destination: "germany",
-			},
-			{
-				date: randomDate(),
-				origin: "france",
-				destination: "germany",
-			},
-			{
-				date: randomDate(),
-				origin: "france",
-				destination: "germany",
-			},
-			{
-				date: randomDate(),
-				origin: "france",
-				destination: "germany",
-			},
-			{
-				date: randomDate(),
-				origin: "france",
-				destination: "germany",
-			},
+
+
 		],
 	},
 ];
